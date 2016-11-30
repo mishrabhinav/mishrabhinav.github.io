@@ -1,14 +1,14 @@
 /*
- * Author: Carlos Alvarez
- * URL: http://alvarez.is
- *
- * Theme Name: Basic
- * URL: http://blacktie.co
- * Version: 1.0
- */
+* Author: Carlos Alvarez
+* URL: http://alvarez.is
+*
+* Theme Name: Basic
+* URL: http://blacktie.co
+* Version: 1.0
+*/
 
 /*	################################################################
-	1. GENERAL STRUCTURES
+1. GENERAL STRUCTURES
 ################################################################# */
 
 /* Import fonts */
@@ -20,7 +20,7 @@
 * {
 	margin: 0;
 	padding: 0px;
-    font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 body {
 	background: #fff;
@@ -29,7 +29,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
 	padding: 0;
 	margin-bottom: 12px;
-    font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	font-size: 18px;
 	line-height: 28px;
@@ -105,8 +105,8 @@ a {
 }
 a:hover,
 a:focus {
-  text-decoration: none;
-  color:#696E74;
+	text-decoration: none;
+	color:#696E74;
 }
 
 .nopadding {
@@ -152,7 +152,7 @@ input {
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	padding: 14px 28px 13px 28px;
-	}
+}
 
 .btn-clear {
 	background: transparent;
@@ -208,16 +208,16 @@ input {
 	min-height: 750px;
 	width: 100%;
 
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    color: white;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: white;
 }
 
 #h .logo {
@@ -306,16 +306,16 @@ input {
 	width: 100%;
 	color: white;
 
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    color: white;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: white;
 }
 
 #sep h3 {
@@ -348,16 +348,16 @@ input {
 	min-height: 700px;
 	width: 100%;
 
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    color: white;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: white;
 }
 
 #h2 .logo {
